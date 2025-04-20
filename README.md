@@ -20,9 +20,8 @@ This project serves as a minimal web application that can be easily managed in a
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    https://github.com/Karan-Negi-12/Static-website-for-testing.git
     ```
-    (Replace `<repository-url>` with the actual URL of your GitHub repository)
 
 2.  **Open `index.html` in your web browser:**
     Simply navigate to the directory where you cloned the repository and open the `index.html` file with your preferred web browser.
@@ -39,7 +38,3 @@ Here are a few ideas for how you can use this project for testing:
 ## Contributing
 
 As this is primarily a testing repository, contributions are not expected. However, feel free to fork the repository and modify it for your own testing needs.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE) (you can add a LICENSE file if you wish to specify a license).
